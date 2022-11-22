@@ -48,23 +48,32 @@ body {
     flex-direction: column;
 }
 
-recept1 {
+.recept1 {
     display: flex;
+    border-color: blueviolet;
 }
 
-recept2 {
+.recept22 {
     display: flex;
+    border-color: greenyellow;   
 }
 
-poznamka {
+
+.poznamka {
     font-family: 'Source Sans Pro', sans-serif; 
     font-size: 14px;
 }
 
-nazev {
+.nazev {
     font-family: 'Raleway', sans-serif;
     font-size: 28px;
 }
+
+
+
+
+
+
 
 
 
