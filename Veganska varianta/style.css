@@ -45,11 +45,29 @@ font-family: 'Source Sans Pro', sans-serif;
 
 body {
     display: flex;
+    flex-direction: column;
 }
 
 recept1 {
-    
+    display: flex;
 }
+
+recept2 {
+    display: flex;
+}
+
+poznamka {
+    font-family: 'Source Sans Pro', sans-serif; 
+    font-size: 14px;
+}
+
+nazev {
+    font-family: 'Raleway', sans-serif;
+    font-size: 28px;
+}
+
+
+
 
 
 
