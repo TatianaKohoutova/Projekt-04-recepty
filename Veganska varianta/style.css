@@ -36,5 +36,20 @@ body {
 
 /* ------------------------------- */
 /* ----- DOLE BUDE TVOJE CSS ----- */
+/* 
+font-family: 'Raleway', sans-serif;
+font-family: 'Source Sans Pro', sans-serif; 
+*/
 /* ------------------------------- */
+
+
+body {
+    display: flex;
+}
+
+recept1 {
+    
+}
+
+
 
